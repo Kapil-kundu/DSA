@@ -1,3 +1,7 @@
+// finding the third largest element with one pass approach 
+// we can also find the third largest element by sorting the array in descending order
+
+
 #include<bits/stdc++.h>
 using namespace std;
 
