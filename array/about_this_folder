@@ -1,8 +1,8 @@
 this file contains all questions solved in this folder(array)
 
-A.cpp ->> 	Find second largest element from the given array
-B.cpp ->> 	Find Third Largest Element from the given array
-C.cpp ->> 	Three Great Candidates
+A.cpp ->>   Find second largest element from the given array
+B.cpp ->>   Find Third Largest Element from the given array
+C.cpp ->>   Three Great Candidates
 D.cpp ->>   Max Consecutive Ones
 E.cpp ->>   Move All Zeroes To End
 F.cpp ->>   Reverse Array in Groups
